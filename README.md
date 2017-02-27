@@ -1,1 +1,1 @@
-RUN calc
+RUN notepad
