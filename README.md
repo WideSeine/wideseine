@@ -1,1 +1,1 @@
-RUN notepad.exe
+RUN calc
